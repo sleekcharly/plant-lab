@@ -1,0 +1,12 @@
+{
+  "name": "plant-lab",
+  "displayName": "plant-lab",
+  "expo": {
+    "name": "plant-lab",
+    "slug": "plant-lab",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
